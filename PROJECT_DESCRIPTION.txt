@@ -1,0 +1,17 @@
+PROJECT SUBMISSION SUMMARY — MOHAMMAD ASIF (BCA STUDENT)
+=========================================================
+
+Project Title: Personal Portfolio Website
+Student Name: Mohammad Asif
+Course / Role: Bachelor of Computer Applications (BCA) Student
+Technologies Used: HTML5 and CSS3 only
+
+Project Description (3-5 sentences for the Official Submission Form):
+This responsive personal portfolio website introduces me as a Bachelor of Computer Applications (BCA) student and showcases my academic background, technical skills, and featured web development projects. Built strictly with semantic HTML5 and external CSS3, the site uses CSS custom properties (variables), Flexbox, and CSS Grid to organize seven clear sections: Header Navigation, Hero, About Me, Skills, Projects, Contact, and Footer. Interactive hover and focus states improve usability across navigation links, skill chips, and project cards, while responsive media queries ensure a clean, readable layout on both mobile phones and desktop screens without horizontal overflow.
+
+Folder Contents:
+- index.html (Semantic HTML5 structure)
+- style.css (Modular CSS3 stylesheet with variables, Flexbox, Grid, and responsive media queries)
+- images/profile.svg (Vector profile illustration with descriptive alt text)
+- screenshots/desktop.png (Desktop viewport screenshot)
+- screenshots/mobile.png (Mobile viewport screenshot)
